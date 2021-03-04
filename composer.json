@@ -1,0 +1,13 @@
+{
+    "name": "isra9/examen-php-unit",
+    "description": "examen php unit",
+    "authors": [
+        {
+            "name": "isra9shadow",
+            "email": "isra9movil@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}
